@@ -1,4 +1,7 @@
 package com.nalif73.lesson06;
 
-public class Animals {
+public abstract class Animals {
+
+
+
 }
